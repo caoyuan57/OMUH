@@ -1,5 +1,6 @@
 # OMUH
 Object-guided Multi-granularity Unsupervised Hashing for Large-scale Image Retrieval.
+![image](/architecture.png)
 
 # Main Dependencies
 -python 3.9.12
